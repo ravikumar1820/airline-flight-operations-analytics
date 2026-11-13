@@ -1,13 +1,22 @@
-# Dashboard Screenshots
+# Airline Analytics Dashboard
 
-This folder contains screenshots of the
-Airline Flight Operations Analytics dashboard.
+This folder contains the complete Databricks dashboard for the Airline Flight Operations Analytics project.
 
-## Dashboard components
+## Dashboard Visualizations
 
-1. Overall Flight KPIs
-2. Airline Performance
-3. Route Performance
-4. Flight Delay Analysis
-5. Most Delayed Flights
-6. Data Quality Monitoring
+- Total Flights
+- On-Time Percentage
+- Average Delay Minutes
+- Total Flights by Airline
+- Airline Performance
+- Top 10 Busiest Routes
+- Flight Delay Distribution
+- Average and Maximum Delay by Category
+- Most Delayed Flights
+- Data Quality Monitoring
+
+## Screenshot
+
+![Airline Analytics Dashboard](airline_dashboard.png)
+
+**Platform:** Databricks SQL Dashboard
